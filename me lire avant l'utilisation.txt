@@ -1,0 +1,7 @@
+dans Laragon dans le dossier www creer un dossier qui s'appel medicalo en minuscule
+mettre tout les fichiers dans ce dossier a part le dossier BDD
+puis aller sur phpmyadmin et creer une nouvelle basse de donnée et la nommer dbmedicalo
+puis importer la base de donnée dans phpmyadmin comme d'habitude
+
+pour acceder au site aller sur 
+localhost/medicalo/
